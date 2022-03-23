@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Contador</title>
+</head>
+<body>
+    <header>
+        <h1>Cotador</h1>
+    </header>
+    <main>
+        <div id="fundo">
+            <form action="">
+                
+                <div class="information">
+                    <input type="text" id="inicio" placeholder="Inicio" alt="Inicio">
+                </div>
+
+                <div class="information">
+                    <input type="text" id="fim" placeholder="Fim" alt="Fim">
+                </div>
+
+                <div class="information">
+
+                    <input type="text" id="passo" placeholder="Passo" alt="Passo">
+                </div>
+                <div class="information">
+                    <input onclick="pegarDados()" type="button" id="calcular" value="Calcular" alt="BotaoParaCalcular">
+                </div>
+            </form>
+            <section>
+                <h1>Resposta</h1>
+                <p id="resposta">Esperando</p>
+            </section>
+        </div>
+
+    </main>
+    <footer></footer>
+    <script src="./contador.js"></script>
+</body>
+</html>
