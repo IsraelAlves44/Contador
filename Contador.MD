@@ -11,4 +11,4 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
   </div>
 
 
- <img align="center" alt="Isra-Js" height="30" width="40" src="./source/Exemplo.png">
+ <img align="center" alt="Isra-Js" height="400" width="400" src="./source/Exemplo.png">
