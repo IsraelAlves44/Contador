@@ -22,12 +22,10 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
 
 # Tratamento de erro 1
   Se o numero do intevalo for igual a 0 então será mostrado na tela que o valor não pode ser 0
+    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem3.png">
 # Tratamento de erro 2
  Se um slot não for devidamente preenchido então será mostrado um alert.
-  <div>
-    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem3.png">
     <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem4.png">
-  </div>
 
 
 
