@@ -13,12 +13,12 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
 <br>
 <br>
 <div display="flex">
-  <img align="center" alt="Isra-Js" height="400" width="400" src=".Exemplo.png">
-  <img align="center" alt="Isra-Js" height="400" width="400" src=".Exemplo2.png">
+  <img align="center" alt="Isra-Js" height="400" width="400" src="./Exemplo.png">
+  <img align="center" alt="Isra-Js" height="400" width="400" src="./Exemplo2.png">
 </div>
 <div>
-  <img align="center" alt="Isra-Js" height="400" width="400" src=".Exemplo3.png">
-  <img align="center" alt="Isra-Js" height="400" width="400" src=".Exemplo4.png">
+  <img align="center" alt="Isra-Js" height="400" width="400" src="./Exemplo3.png">
+  <img align="center" alt="Isra-Js" height="400" width="400" src="./Exemplo4.png">
 </div>
 
 Na segunda imagem temos o valor partindo de 1 até 100 de 5 em 5.
