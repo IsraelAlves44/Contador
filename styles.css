@@ -5,7 +5,7 @@
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans;
+  font-family: Roboto, "Helvetica Neue";
   background-color: rgb(62, 62, 248);
   font-weight: bold;
 }
@@ -23,31 +23,33 @@ header h1 {
 form {
   display: flex;
   flex-direction: column;
-  padding: 1rem 2rem;
+  align-items: center;
 }
-div.information {
+.information {
   margin-top: 2rem;
 }
 input {
-  outline: 0;
-  width: 100%;
-  text-align: center;
-  font-weight: bold;
-  padding: 0.5rem;
-  border-radius: 0.5rem;
-  border: 0;
-  background-color: rgb(211, 211, 211);
-}
-input#calcular {
-  background-color: rgb(247, 121, 121);
-  border: 0;
+  border: none;
+  background-color: rgb(219, 218, 218);
   padding: 1rem;
   border-radius: 0.5rem;
+  outline: none;
+  text-align: center;
 }
-#calcular:hover {
-  background-color: rgb(252, 78, 78);
+
+input#calcular {
+  background-color: rgb(146, 79, 255);
+  width: 10rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: #fff;
+  font-weight: bold;
 }
-div#fundo {
+input#calcular:hover {
+  background-color: rgb(118, 32, 255);
+  transition: 0.5s;
+}
+div#background {
   height: 400px;
   width: 400px;
   border-radius: 1rem;
@@ -58,9 +60,9 @@ div#fundo {
   justify-content: space-between;
 }
 section {
-  height: 500px;
+  height: auto;
   width: 400px;
-  background-color: rgb(197, 197, 197);
+  background-color: rgb(224, 224, 224);
   border-radius: 1rem;
 }
 
