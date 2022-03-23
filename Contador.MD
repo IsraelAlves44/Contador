@@ -17,4 +17,5 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
   <img align="center" alt="Isra-Js" height="400" width="400" src="./source/Exemplo2.png">
 </div>
 
+Na segunda imagem temos o valor partindo de 1 até 100 de 5 em 5.
 
