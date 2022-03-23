@@ -12,5 +12,9 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
 <br>
 <br>
 <br>
- <img align="center" alt="Isra-Js" height="400" width="400" src="./source/Exemplo.png">
+<div display="flex">
+  <img align="center" alt="Isra-Js" height="400" width="400" src="./source/Exemplo.png">
   <img align="center" alt="Isra-Js" height="400" width="400" src="./source/Exemplo2.png">
+</div>
+
+
