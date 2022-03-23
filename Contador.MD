@@ -12,23 +12,22 @@ Nesse repositorio temos um contador que pede um numero inicial, um numero final 
 <br>
 <br>
 <br>
+
+
 # Aplicação funcionando
+  <div display="flex">
+    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem1.png">
+    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem2.png">
+  </div>
 
-  O valor começa em 1 e vai ate 100 o intervalo de 5 em 5.
-  
-<div display="flex">
-  <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem1.png">
-  <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem2.png">
-</div>
- # Tratamento de erro 1
- Se o numero do intevalo for igual a 0 então será mostrado na tela que o valor não pode ser 0
-  # Tratamento de erro 2
+# Tratamento de erro 1
+  Se o numero do intevalo for igual a 0 então será mostrado na tela que o valor não pode ser 0
+# Tratamento de erro 2
  Se um slot não for devidamente preenchido então será mostrado um alert.
-<div>
-  <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem3.png">
-  <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem4.png">
+  <div>
+    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem3.png">
+    <img align="center" alt="Isra-Js" height="624" width="514" src="./source/imagem4.png">
+  </div>
 
-</div>
 
-Na segunda imagem temos o valor partindo de 1 até 100 de 5 em 5.
 
